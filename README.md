@@ -5,7 +5,7 @@ Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión
 
 Titulo : _______
 
-Autor(es) ______________
+Autor(es) Juanjo, Daniela y Daniel
 
 Resumen : _________
 
