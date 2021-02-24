@@ -3,9 +3,9 @@
 
 Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
-Titulo : Escape
+Titulo : Los viajeros de Miguel___
 
-Autor(es) ______________
+Autor(es) Daniel, Daniela y Juanjo
 
 Resumen : _________
 
